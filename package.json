@@ -1,0 +1,14 @@
+{
+  "name": "codecept-headers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
+  "dependencies": {
+    "codeceptjs": "^1.0.3",
+    "hapi": "^16.6.2",
+    "unirest": "^0.5.1"
+  }
+}
